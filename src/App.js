@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-   <div>My Name is Harshit</div>
+   <div>My Name is Harshit Shakya</div>
   );
 }
 
