@@ -1,0 +1,30 @@
+.contain {
+  position: relative;
+  width: 100%;
+}
+.img-contain {
+  width: 100%;
+  filter: blur(5px)!important; /* Apply a blur effect */
+}
+
+.texti{
+  position: absolute;
+  top: 52%;
+  left: 27.5%; 
+  font-size: 70px;
+  font-weight: bolder;
+  transform: translate(-50%, -50%);
+}
+.btn {
+  position: absolute;
+  top: 70%;
+  left: 15%; /* Adjust this value */
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 1); /* Semi-transparent black background */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 1; /* Ensures button is above the image */
+}
