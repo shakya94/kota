@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kota/static/css/main.407d7fd2.css",
-    "main.js": "/kota/static/js/main.9c93a240.js",
+    "main.css": "/kota/static/css/main.f40515c7.css",
+    "main.js": "/kota/static/js/main.2befc969.js",
     "reactPlayerPreview.js": "/kota/static/js/reactPlayerPreview.d9c6435a.chunk.js",
     "static/js/592.3a88acfd.chunk.js": "/kota/static/js/592.3a88acfd.chunk.js",
     "static/media/maam.jpeg": "/kota/static/media/maam.492e4755dd7a00300841.jpeg",
@@ -21,13 +21,13 @@
     "static/media/fa-v4compatibility.ttf": "/kota/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/kota/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/kota/index.html",
-    "main.407d7fd2.css.map": "/kota/static/css/main.407d7fd2.css.map",
-    "main.9c93a240.js.map": "/kota/static/js/main.9c93a240.js.map",
+    "main.f40515c7.css.map": "/kota/static/css/main.f40515c7.css.map",
+    "main.2befc969.js.map": "/kota/static/js/main.2befc969.js.map",
     "reactPlayerPreview.d9c6435a.chunk.js.map": "/kota/static/js/reactPlayerPreview.d9c6435a.chunk.js.map",
     "592.3a88acfd.chunk.js.map": "/kota/static/js/592.3a88acfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.407d7fd2.css",
-    "static/js/main.9c93a240.js"
+    "static/css/main.f40515c7.css",
+    "static/js/main.2befc969.js"
   ]
 }
